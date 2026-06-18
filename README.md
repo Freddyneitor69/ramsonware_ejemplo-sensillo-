@@ -1,4 +1,4 @@
-# 🔐 Encriptador y Desencriptador de Archivos
+# 🔐 ramsonware y desencriptador
 
 > Una prueba de concepto que implementa encriptación y desencriptación segura de archivos utilizando **AES-GCM**, con la funcionalidad adicional de cambiar el fondo de pantalla dinámicamente.
 
@@ -41,7 +41,7 @@ pycryptodome
 ### 1. Clona el repositorio
 
 ```bash
-git clone <tu-repositorio-url>
+git clone https://github.com/Freddyneitor69/ramsonware_ejemplo-sensillo-
 cd encriptador-archivos
 ```
 
